@@ -1,0 +1,8 @@
+{
+  "features": [
+    "used_agricultural_area_ha",
+    "total_labour_AWU",
+    "managers_full_training"
+  ],
+  "target": "standard_output_EUR"
+}
